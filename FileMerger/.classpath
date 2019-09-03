@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_51"/>
+	<classpathentry exported="true" kind="lib" path="/home/revathy/mariner-latest/FileMerger/lib/gson-2.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/revathy/mariner-latest/FileMerger/lib/opencsv-4.6.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/mariner-latest/FileMerger/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/home/revathy/mariner-latest/FileMerger/lib/commons-lang3-3.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
